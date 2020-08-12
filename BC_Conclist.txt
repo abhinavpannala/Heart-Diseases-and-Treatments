@@ -1,0 +1,30 @@
+Arrhythmia
+Hypertrophic Cardiomyopathy
+Aortic Valve Stenonis
+Dilated Cardiomyopathy
+Pulmonary Stenosis
+Valvular Heart Disease
+Aortic Valve Regurgitation
+Congenital Heart Disease
+Rheumatic Heart Disease
+Coronary Heart Disease
+Cardiomyopathy
+Angina
+MyocardialIschemia
+Heart Failure
+Mitral Regurgitation
+Endocarditis
+Atherosclerosis
+Pulmonary Atresia
+Tricuspid Atresia
+Ebsteins Anomaly
+Double Outlet Right Ventricle Defect
+Cardiac Cachexia
+Eisenmenger Syndrome
+Myocardial Infarction
+Mitral Valve Prolapse
+Heart Attack
+Peripheral Artery Disease
+Aortic Aneurysm
+Patent Ductus Arteriosus
+Hyperlipidemma

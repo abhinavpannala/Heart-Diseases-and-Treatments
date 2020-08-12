@@ -1,0 +1,30 @@
+IF DISEASE=Arrythmia THEN TREATMENT=Cardioversion, In this procedure a shock is delivered to your heart through paddles or patches on your chest.
+IF DISEASE=Hypertrophic Cardiomyopathy THEN TREATMENT=Septal myectomy, the surgical removal of a section of heart muscle
+IF DISEASE=Aortic Valve Stenonis THEN TREATMENT=Balloon valvuloplasty,inserts a catheter with a balloon on the tip into an artery in your arm or groin and guides it to the aortic valve.
+IF DISEASE=Dilated Cardiomyopathy THEN TREATMENT=Surgery - Heart transplant or other heart failure surgical options.
+IF DISEASE=Pulmonary Stenosis THEN TREATMENT=valvuloplasty - minimally invasive,A more severe problem may require an open-heart operation, which is major surgery
+IF DISEASE=Valvular Heart Diesease THEN TREATMENT=no medicines can cure heart valve disease, surgery is required to repair or replace a faulty heart valve
+IF DISEASE=Aortic Valve Regurgitation THEN TREATMENT=Treated with medication,to reduce blood clotting and reduce the risk of stroke, but surgical repairs or replacement are often needed. 
+IF DISEASE=Congenital Heart Disease THEN TREATMENT=Treatment can include medicines, catheter procedures, surgery, and heart transplants
+IF DISEASE=Rheumatic Heart Disease THEN TREATMENT=Treatment of acute rheumatic fever includes antibiotics to treat the strep infection
+IF DISEASE=Coronary Heart Disease THEN TREATMENT=heart-healthy lifestyle changes, medicines, or procedures such as coronary artery bypass grafting or percutaneous coronary intervention.
+IF DISEASE=Cardiomyopathy THEN TREATMENT=Heart transplantation
+IF DISEASE=Angina THEN TREATMENT=Medication and Angioplasty and stent placement 
+IF DISEASE=MyocardialIschemia THEN TREATMENT=Treatment include include medications, a procedure to open blocked arteries (angioplasty)
+IF DISEASE=Heart Failure THEN TREATMENT=Medication such as such as nitrates for chest pain, a statin to lower cholesterol
+IF DISEASE=Mitral Regurgitation THEN TREATMENT= mitral valve repair is the preferred therapy for treating primary MR
+IF DISEASE=Endocarditis THEN TREATMENT=Treated with antibiotics. Sometimes, surgery may be required to fix damaged heart valves
+IF DISEASE=Atherosclerosis THEN TREATMENT=Treatments include medications, procedures to open blocked arteries and surgery.
+IF DISEASE=Pulmonary Atresia THEN TREATMENT=Medication and balloon atrial septostomy are short-term treatments, and the child will probably need additional surgery to improve blood flow to the lungs.	
+IF DISEASE=Tricuspid Atresia THEN TREATMENT=Treatment involves surgery to ensure adequate blood flow through the heart and into the lungs.
+IF DISEASE=Ebsteins Anomaly THEN TREATMENT=Regular Monitoring, Medications, Surgery
+IF DISEASE=Double Outlet Right Ventricle Defect THEN TREATMENT=Treatment includes surgery to close the hole in the heart and connect the aorta to the left ventricle and the pulmonary artery to the right ventricle
+IF DISEASE=Cardiac Cachexia THEN TREATMENT= nonpharmacological therapy such as nutritional support and physical exercise has been considered as the basis for cachexia prevention and treatment
+IF DISEASE=Eisenmenger Syndrome THEN TREATMENT=Treatments may include Phlebotomy, Medications and oxygen
+IF DISEASE=Myocardial Infarction THEN TREATMENT=Treatment includes procedure called angioplasty may be used to unblock the arteries that supply blood to the heart
+IF DISEASE=Mitral Valve Prolapse THEN TREATMENT=Treatment often involves taking medications like aspirin,beta blockers, blood thinners, diuretics, vasodilators
+IF DISEASE=Heart Attack THEN TREATMENT= common treatments include Angioplasty, laser, Artificial heart valve surgery, bypass surgery
+IF DISEASE=Peripheral Artery Disease THEN TREATMENT=Tobacco cessation, exercise, and a healthy diet are often successful treatments
+IF DISEASE=Aortic Aneurysm THEN TREATMENT= Aneurysms that are too large or growing too quickly should be repaired with surgery.
+IF DISEASE=Patent Ductus Arteriosus THEN TREATMENT=Treatments include monitoring, medications such as anti-inflammatories (NSAIDs), and surgery.
+IF DISEASE=Hyperlipidemma THEN TREATMENT=Treatments include medication, a healthy diet, and exercise.
